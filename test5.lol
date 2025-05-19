@@ -1,10 +1,10 @@
 HAI
-  I HAS A age ITZ 18
-
-  O RLY?
+I HAS A num ITZ 10
+O RLY?
+  BOTH SAEM num AN 10
     YA RLY
-      BOTH SAEM age AN 18, VISIBLE "You are exactly 18!"
+      VISIBLE "NUM IS TEN"
     NO WAI
-      VISIBLE "You are not 18."
-  OIC
+      VISIBLE "NUM IS NOT TEN"
+OIC
 KTHXBYE
