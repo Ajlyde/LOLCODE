@@ -1,5 +1,4 @@
 HAI
-  I HAS A var ITZ 10
-  VISIBLE "Value of var is:"
-  VISIBLE var
+I HAS A msg ITZ "HELLO WORLD"
+VISIBLE msg
 KTHXBYE
